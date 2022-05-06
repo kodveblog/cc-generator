@@ -5,8 +5,7 @@ print("""
 __________________________________________
 
        CreditCard Generator 
-        CyberzForum.com  
- - H4WK OFCX
+             DeltaHackerz
        script bana ait değildir !
 __________________________________________
 
